@@ -3,4 +3,7 @@ This is an application for a password generator that creates a password based on
 
 The code uses while loops for the input sequences, the array.push() method with the spread operator to merge the chosen sets of characters into a single array, and final for loop with the math.random function to output a random set of characters for a password.
 
-Screenshot: ![image](https://user-images.githubusercontent.com/62922022/85973288-1a3ab500-b987-11ea-8237-7600bc9aeaf9.png)
+Deployed link: https://jnaegeli12.github.io/week-3-passwords/index.html
+
+## Screenshot:
+![image](https://user-images.githubusercontent.com/62922022/85973288-1a3ab500-b987-11ea-8237-7600bc9aeaf9.png)
