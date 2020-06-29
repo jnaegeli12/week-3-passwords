@@ -1,6 +1,18 @@
+body {
+    background-color: #00594F;
+}
+
+h2 {
+    padding: 50px;
+    color: white;
+}
+
+.boxes {
+    background-color: #f5f5f5;
+}
+
 .center {
     text-align: center;
-    padding: 50px;
 }
 
 .outline {
@@ -11,9 +23,10 @@
 }
 
 .dashed {
-    margin: 25px;
+    background-color: white;
+    margin: 40px;
     border-style: dashed;
-    border-color: blue;
+    border-color: #00594F;
     border-width: 2px;
     padding: 50px;
 }
@@ -23,4 +36,5 @@
     font-size: 24px;
     font-family: monospace;
     font-weight: 600;
+    overflow-wrap: anywhere;
 }
